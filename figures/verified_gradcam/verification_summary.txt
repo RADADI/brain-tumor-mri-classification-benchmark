@@ -1,0 +1,15 @@
+VGG16 Grad-CAM verification summary
+===================================
+Test images: 1600
+Class order: ['glioma', 'meningioma', 'notumor', 'pituitary']
+Checkpoint: publication_outputs/benchmark_vgg16/seed_123/final_model.pth
+Reference predictions: publication_outputs/benchmark_vgg16/seed_123/test_predictions.csv
+Checkpoint strict load: PASS
+Target layer: model.features[28] (last Conv2d)
+Saved true-label agreement: 1.000000
+Saved predicted-class agreement: 1.000000
+Max probability absolute difference: 0.0000005954
+Mean probability absolute difference: 0.0000000120
+Grad-CAM implementation: direct split-forward, no backward hooks
+Grad-CAM attribution device: CPU
+Interpretation: attribution map only; not a tumor segmentation/localization ground truth.

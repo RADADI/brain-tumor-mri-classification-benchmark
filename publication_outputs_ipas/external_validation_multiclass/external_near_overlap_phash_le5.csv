@@ -1,0 +1,725 @@
+external,internal,phash_hamming
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/1.jpg,DatasetNew/Training/glioma/Tr-gl_998.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/100.jpg,DatasetNew/Training/glioma/Tr-gl_508.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/103.jpg,DatasetNew/Training/glioma/Tr-gl_104.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/105.jpg,DatasetNew/Training/glioma/Tr-gl_1018.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/106.jpg,DatasetNew/Training/glioma/Tr-gl_1046.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/107.jpg,DatasetNew/Training/glioma/Tr-gl_1343.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/108.jpg,DatasetNew/Training/glioma/Tr-gl_979.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/11.jpg,DatasetNew/Testing/glioma/Te-gl_186.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/110.jpg,DatasetNew/Testing/glioma/Te-gl_87.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/111.jpg,DatasetNew/Testing/glioma/Te-gl_396.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/112.jpg,DatasetNew/Training/glioma/Tr-gl_1390.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/113.jpg,DatasetNew/Training/glioma/Tr-gl_858.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/114.jpg,DatasetNew/Testing/glioma/Te-gl_88.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/116.jpg,DatasetNew/Training/glioma/Tr-gl_590.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/117.jpg,DatasetNew/Training/glioma/Tr-gl_705.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/118.jpg,DatasetNew/Training/glioma/Tr-gl_49.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/12.jpg,DatasetNew/Training/glioma/Tr-gl_410.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/120.jpg,DatasetNew/Training/glioma/Tr-gl_269.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/122.jpg,DatasetNew/Training/glioma/Tr-gl_1179.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/123.jpg,DatasetNew/Testing/glioma/Te-gl_374.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/124.jpg,DatasetNew/Training/glioma/Tr-gl_480.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/125.jpg,DatasetNew/Training/glioma/Tr-gl_1221.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/127.jpg,DatasetNew/Training/glioma/Tr-gl_22.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/128.jpg,DatasetNew/Training/glioma/Tr-gl_94.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/130.jpg,DatasetNew/Testing/glioma/Te-gl_288.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/131.jpg,DatasetNew/Training/glioma/Tr-gl_791.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/132.jpg,DatasetNew/Training/glioma/Tr-gl_272.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/133.jpg,DatasetNew/Training/glioma/Tr-gl_618.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/135.jpg,DatasetNew/Testing/glioma/Te-gl_156.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/137.jpg,DatasetNew/Training/glioma/Tr-gl_42.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/139.jpg,DatasetNew/Training/glioma/Tr-gl_745.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/14.jpg,DatasetNew/Training/glioma/Tr-gl_1087.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/140.jpg,DatasetNew/Testing/glioma/Te-gl_112.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/141.jpg,DatasetNew/Training/glioma/Tr-gl_413.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/142.jpg,DatasetNew/Training/glioma/Tr-gl_1215.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/143.jpg,DatasetNew/Training/glioma/Tr-gl_733.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/144.jpg,DatasetNew/Training/glioma/Tr-gl_424.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/148.jpg,DatasetNew/Training/glioma/Tr-gl_1387.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/149.jpg,DatasetNew/Testing/glioma/Te-gl_366.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/15.jpg,DatasetNew/Testing/glioma/Te-gl_13.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/151.jpg,DatasetNew/Training/glioma/Tr-gl_1083.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/153.jpg,DatasetNew/Testing/glioma/Te-gl_52.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/157.jpg,DatasetNew/Training/glioma/Tr-gl_920.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/158.jpg,DatasetNew/Training/glioma/Tr-gl_264.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/159.jpg,DatasetNew/Testing/glioma/Te-gl_398.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/16.jpg,DatasetNew/Training/glioma/Tr-gl_177.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/161.jpg,DatasetNew/Training/glioma/Tr-gl_954.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/163.jpg,DatasetNew/Training/glioma/Tr-gl_990.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/165.jpg,DatasetNew/Training/glioma/Tr-gl_194.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/167.jpg,DatasetNew/Training/glioma/Tr-gl_896.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/169.jpg,DatasetNew/Training/glioma/Tr-gl_966.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/170.jpg,DatasetNew/Training/glioma/Tr-gl_843.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/171.jpg,DatasetNew/Training/glioma/Tr-gl_198.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/172.jpg,DatasetNew/Training/glioma/Tr-gl_473.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/174.jpg,DatasetNew/Training/glioma/Tr-gl_80.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/175.jpg,DatasetNew/Testing/glioma/Te-gl_369.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/177.jpg,DatasetNew/Training/glioma/Tr-gl_500.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/179.jpg,DatasetNew/Training/glioma/Tr-gl_169.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/180.jpg,DatasetNew/Training/glioma/Tr-gl_64.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/181.jpg,DatasetNew/Training/glioma/Tr-gl_1245.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/182.jpg,DatasetNew/Training/glioma/Tr-gl_1293.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/185.jpg,DatasetNew/Training/glioma/Tr-gl_602.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/188.jpg,DatasetNew/Training/glioma/Tr-gl_313.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/189.jpg,DatasetNew/Training/glioma/Tr-gl_67.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/19.jpg,DatasetNew/Testing/glioma/Te-gl_337.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/190.jpg,DatasetNew/Testing/glioma/Te-gl_271.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/191.jpg,DatasetNew/Training/glioma/Tr-gl_1093.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/194.jpg,DatasetNew/Training/glioma/Tr-gl_82.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/195.jpg,DatasetNew/Training/glioma/Tr-gl_528.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/197.jpg,DatasetNew/Training/glioma/Tr-gl_1340.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/198.jpg,DatasetNew/Testing/glioma/Te-gl_394.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/199.jpg,DatasetNew/Training/glioma/Tr-gl_836.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/2.jpg,DatasetNew/Training/glioma/Tr-gl_697.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/200.jpg,DatasetNew/Training/glioma/Tr-gl_164.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/201.jpg,DatasetNew/Testing/glioma/Te-gl_107.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/202.jpg,DatasetNew/Training/glioma/Tr-gl_1160.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/203.jpg,DatasetNew/Testing/glioma/Te-gl_385.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/204.jpg,DatasetNew/Training/glioma/Tr-gl_764.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/205.jpg,DatasetNew/Training/glioma/Tr-gl_1133.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/210.jpg,DatasetNew/Testing/glioma/Te-gl_222.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/213.jpg,DatasetNew/Training/glioma/Tr-gl_1157.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/214.jpg,DatasetNew/Training/glioma/Tr-gl_592.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/216.jpg,DatasetNew/Training/glioma/Tr-gl_950.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/217.jpg,DatasetNew/Training/glioma/Tr-gl_1189.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/218.jpg,DatasetNew/Training/glioma/Tr-gl_193.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/219.jpg,DatasetNew/Training/glioma/Tr-gl_373.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/220.jpg,DatasetNew/Testing/glioma/Te-gl_279.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/222.jpg,DatasetNew/Training/glioma/Tr-gl_1145.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/223.jpg,DatasetNew/Training/glioma/Tr-gl_1146.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/224.jpg,DatasetNew/Training/glioma/Tr-gl_1058.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/226.jpg,DatasetNew/Testing/glioma/Te-gl_264.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/228.jpg,DatasetNew/Testing/glioma/Te-gl_339.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/23.jpg,DatasetNew/Training/glioma/Tr-gl_816.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/230.jpg,DatasetNew/Testing/glioma/Te-gl_263.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/231.jpg,DatasetNew/Training/glioma/Tr-gl_563.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/232.jpg,DatasetNew/Training/glioma/Tr-gl_28.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/233.jpg,DatasetNew/Testing/glioma/Te-gl_85.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/234.jpg,DatasetNew/Training/glioma/Tr-gl_1333.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/235.jpg,DatasetNew/Training/glioma/Tr-gl_1349.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/237.jpg,DatasetNew/Training/glioma/Tr-gl_1174.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/238.jpg,DatasetNew/Testing/glioma/Te-gl_320.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/24.jpg,DatasetNew/Training/glioma/Tr-gl_740.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/240.jpg,DatasetNew/Testing/glioma/Te-gl_245.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/241.jpg,DatasetNew/Training/glioma/Tr-gl_221.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/242.jpg,DatasetNew/Testing/glioma/Te-gl_95.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/243.jpg,DatasetNew/Training/glioma/Tr-gl_1353.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/244.jpg,DatasetNew/Training/glioma/Tr-gl_1044.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/246.jpg,DatasetNew/Training/glioma/Tr-gl_304.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/247.jpg,DatasetNew/Training/glioma/Tr-gl_813.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/249.jpg,DatasetNew/Training/glioma/Tr-gl_233.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/25.jpg,DatasetNew/Training/glioma/Tr-gl_218.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/250.jpg,DatasetNew/Testing/glioma/Te-gl_26.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/251.jpg,DatasetNew/Training/glioma/Tr-gl_1388.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/252.jpg,DatasetNew/Training/glioma/Tr-gl_1116.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/254.jpg,DatasetNew/Training/glioma/Tr-gl_1282.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/255.jpg,DatasetNew/Training/glioma/Tr-gl_88.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/257.jpg,DatasetNew/Training/glioma/Tr-gl_448.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/260.jpg,DatasetNew/Training/glioma/Tr-gl_763.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/264.jpg,DatasetNew/Training/glioma/Tr-gl_1115.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/266.jpg,DatasetNew/Training/glioma/Tr-gl_1013.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/267.jpg,DatasetNew/Training/glioma/Tr-gl_1357.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/268.jpg,DatasetNew/Training/glioma/Tr-gl_278.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/269.jpg,DatasetNew/Training/glioma/Tr-gl_657.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/270.jpg,DatasetNew/Training/glioma/Tr-gl_371.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/271.jpg,DatasetNew/Training/glioma/Tr-gl_153.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/273.jpg,DatasetNew/Training/glioma/Tr-gl_138.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/277.jpg,DatasetNew/Testing/glioma/Te-gl_360.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/279.jpg,DatasetNew/Training/glioma/Tr-gl_994.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/28.jpg,DatasetNew/Testing/glioma/Te-gl_225.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/280.jpg,DatasetNew/Training/glioma/Tr-gl_423.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/284.jpg,DatasetNew/Training/glioma/Tr-gl_1331.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/286.jpg,DatasetNew/Training/glioma/Tr-gl_1020.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/287.jpg,DatasetNew/Training/glioma/Tr-gl_525.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/288.jpg,DatasetNew/Training/glioma/Tr-gl_283.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/289.jpg,DatasetNew/Training/glioma/Tr-gl_1258.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/29.jpg,DatasetNew/Training/glioma/Tr-gl_797.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/290.jpg,DatasetNew/Training/glioma/Tr-gl_165.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/291.jpg,DatasetNew/Training/glioma/Tr-gl_45.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/292.jpg,DatasetNew/Training/glioma/Tr-gl_845.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/293.jpg,DatasetNew/Training/glioma/Tr-gl_352.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/294.jpg,DatasetNew/Training/glioma/Tr-gl_396.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/295.jpg,DatasetNew/Testing/glioma/Te-gl_93.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/296.jpg,DatasetNew/Training/glioma/Tr-gl_1024.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/299.jpg,DatasetNew/Training/glioma/Tr-gl_1130.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/3.jpg,DatasetNew/Testing/glioma/Te-gl_247.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/30.jpg,DatasetNew/Training/glioma/Tr-gl_205.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/300.jpg,DatasetNew/Training/glioma/Tr-gl_95.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/31.jpg,DatasetNew/Training/glioma/Tr-gl_343.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/32.jpg,DatasetNew/Training/glioma/Tr-gl_273.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/34.jpg,DatasetNew/Testing/glioma/Te-gl_6.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/35.jpg,DatasetNew/Training/glioma/Tr-gl_504.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/36.jpg,DatasetNew/Training/glioma/Tr-gl_146.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/38.jpg,DatasetNew/Training/glioma/Tr-gl_543.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/4.jpg,DatasetNew/Training/glioma/Tr-gl_546.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/42.jpg,DatasetNew/Training/glioma/Tr-gl_1078.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/44.jpg,DatasetNew/Testing/glioma/Te-gl_21.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/46.jpg,DatasetNew/Testing/glioma/Te-gl_108.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/47.jpg,DatasetNew/Training/glioma/Tr-gl_1276.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/49.jpg,DatasetNew/Testing/glioma/Te-gl_45.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/5.jpg,DatasetNew/Training/glioma/Tr-gl_756.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/50.jpg,DatasetNew/Training/glioma/Tr-gl_507.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/52.jpg,DatasetNew/Training/glioma/Tr-gl_798.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/54.jpg,DatasetNew/Training/glioma/Tr-gl_1182.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/55.jpg,DatasetNew/Training/glioma/Tr-gl_925.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/56.jpg,DatasetNew/Training/glioma/Tr-gl_625.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/57.jpg,DatasetNew/Training/glioma/Tr-gl_378.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/58.jpg,DatasetNew/Training/glioma/Tr-gl_21.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/62.jpg,DatasetNew/Training/glioma/Tr-gl_1248.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/63.jpg,DatasetNew/Testing/glioma/Te-gl_18.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/65.jpg,DatasetNew/Testing/glioma/Te-gl_387.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/67.jpg,DatasetNew/Testing/glioma/Te-gl_365.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/69.jpg,DatasetNew/Training/glioma/Tr-gl_802.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/70.jpg,DatasetNew/Training/glioma/Tr-gl_1279.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/71.jpg,DatasetNew/Training/glioma/Tr-gl_640.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/75.jpg,DatasetNew/Training/glioma/Tr-gl_76.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/76.jpg,DatasetNew/Training/glioma/Tr-gl_68.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/77.jpg,DatasetNew/Training/glioma/Tr-gl_386.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/78.jpg,DatasetNew/Testing/glioma/Te-gl_61.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/8.jpg,DatasetNew/Testing/glioma/Te-gl_131.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/80.jpg,DatasetNew/Training/glioma/Tr-gl_865.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/81.jpg,DatasetNew/Training/glioma/Tr-gl_947.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/83.jpg,DatasetNew/Training/glioma/Tr-gl_395.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/84.jpg,DatasetNew/Training/glioma/Tr-gl_878.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/85.jpg,DatasetNew/Training/glioma/Tr-gl_577.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/86.jpg,DatasetNew/Testing/glioma/Te-gl_230.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/87.jpg,DatasetNew/Training/glioma/Tr-gl_1197.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/88.jpg,DatasetNew/Training/glioma/Tr-gl_145.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/89.jpg,DatasetNew/Training/glioma/Tr-gl_491.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/9.jpg,DatasetNew/Training/glioma/Tr-gl_78.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/90.jpg,DatasetNew/Training/glioma/Tr-gl_13.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/92.jpg,DatasetNew/Training/glioma/Tr-gl_1164.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/93.jpg,DatasetNew/Training/glioma/Tr-gl_676.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/95.jpg,DatasetNew/Training/glioma/Tr-gl_191.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/96.jpg,DatasetNew/Training/glioma/Tr-gl_436.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Glioma/98.jpg,DatasetNew/Training/glioma/Tr-gl_171.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/102.jpg,DatasetNew/Training/notumor/Tr-no_655.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/103.jpg,DatasetNew/Training/notumor/Tr-no_901.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/108.jpg,DatasetNew/Training/meningioma/Tr-me_499.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/109.jpg,DatasetNew/Testing/notumor/Te-no_206.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/115.jpg,DatasetNew/Training/notumor/Tr-no_924.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/120.jpg,DatasetNew/Training/notumor/Tr-no_1292.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/125.jpg,DatasetNew/Training/notumor/Tr-no_899.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/128.jpg,DatasetNew/Training/notumor/Tr-no_1084.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/132.jpg,DatasetNew/Training/notumor/Tr-no_610.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/133.jpg,DatasetNew/Training/notumor/Tr-no_1209.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/138.jpg,DatasetNew/Training/notumor/Tr-no_215.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/139.jpg,DatasetNew/Training/notumor/Tr-no_857.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/140.jpg,DatasetNew/Training/glioma/Tr-gl_818.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/143.jpg,DatasetNew/Training/notumor/Tr-no_1351.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/145.jpg,DatasetNew/Training/notumor/Tr-no_237.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/149.jpg,DatasetNew/Training/notumor/Tr-no_1091.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/152.jpg,DatasetNew/Training/notumor/Tr-no_763.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/153.jpg,DatasetNew/Training/notumor/Tr-no_239.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/161.jpg,DatasetNew/Training/notumor/Tr-no_379.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/163.jpg,DatasetNew/Training/notumor/Tr-no_130.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/167.jpg,DatasetNew/Training/notumor/Tr-no_969.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/172.jpg,DatasetNew/Training/notumor/Tr-no_1004.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/176.jpg,DatasetNew/Training/notumor/Tr-no_56.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/177.jpg,DatasetNew/Training/notumor/Tr-no_1307.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/18.jpg,DatasetNew/Training/notumor/Tr-no_586.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/187.jpg,DatasetNew/Training/notumor/Tr-no_322.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/193.jpg,DatasetNew/Training/notumor/Tr-no_1022.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/199.jpg,DatasetNew/Training/notumor/Tr-no_389.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/2.jpg,DatasetNew/Training/notumor/Tr-no_451.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/205.jpg,DatasetNew/Training/notumor/Tr-no_911.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/206.jpg,DatasetNew/Testing/notumor/Te-no_317.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/209.jpg,DatasetNew/Training/notumor/Tr-no_193.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/212.jpg,DatasetNew/Training/glioma/Tr-gl_1318.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/214.jpg,DatasetNew/Training/meningioma/Tr-me_691.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/217.jpg,DatasetNew/Training/notumor/Tr-no_96.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/218.jpg,DatasetNew/Training/notumor/Tr-no_1257.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/219.jpg,DatasetNew/Training/notumor/Tr-no_1207.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/22.jpg,DatasetNew/Training/notumor/Tr-no_1140.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/23.jpg,DatasetNew/Training/notumor/Tr-no_792.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/230.jpg,DatasetNew/Testing/meningioma/Te-me_283.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/238.jpg,DatasetNew/Training/notumor/Tr-no_1295.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/239.jpg,DatasetNew/Training/notumor/Tr-no_1398.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/255.jpg,DatasetNew/Training/notumor/Tr-no_210.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/26.jpg,DatasetNew/Training/notumor/Tr-no_816.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/261.jpg,DatasetNew/Training/glioma/Tr-gl_155.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/262.jpg,DatasetNew/Training/notumor/Tr-no_737.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/27.jpg,DatasetNew/Training/notumor/Tr-no_214.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/276.jpg,DatasetNew/Training/glioma/Tr-gl_258.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/278.jpg,DatasetNew/Training/notumor/Tr-no_1286.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/280.jpg,DatasetNew/Training/notumor/Tr-no_1066.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/283.jpg,DatasetNew/Training/notumor/Tr-no_1394.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/284.jpg,DatasetNew/Training/notumor/Tr-no_46.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/285.jpg,DatasetNew/Training/notumor/Tr-no_604.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/292.jpg,DatasetNew/Training/notumor/Tr-no_864.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/295.jpg,DatasetNew/Training/notumor/Tr-no_1123.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/298.jpg,DatasetNew/Training/notumor/Tr-no_1108.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/299.jpg,DatasetNew/Training/notumor/Tr-no_123.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/31.jpg,DatasetNew/Training/notumor/Tr-no_1285.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/40.jpg,DatasetNew/Training/notumor/Tr-no_50.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/42.jpg,DatasetNew/Training/notumor/Tr-no_443.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/49.jpg,DatasetNew/Training/notumor/Tr-no_1195.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/56.jpg,DatasetNew/Training/notumor/Tr-no_495.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/58.jpg,DatasetNew/Training/notumor/Tr-no_265.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/66.jpg,DatasetNew/Training/notumor/Tr-no_1172.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/67.jpg,DatasetNew/Training/notumor/Tr-no_1042.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/68.jpg,DatasetNew/Training/notumor/Tr-no_1003.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/70.jpg,DatasetNew/Training/notumor/Tr-no_1120.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/72.jpg,DatasetNew/Training/notumor/Tr-no_334.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/74.jpg,DatasetNew/Testing/notumor/Te-no_177.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/77.jpg,DatasetNew/Training/notumor/Tr-no_491.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/78.jpg,DatasetNew/Training/notumor/Tr-no_750.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/84.jpg,DatasetNew/Training/notumor/Tr-no_1270.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Healthy/92.jpg,DatasetNew/Training/notumor/Tr-no_1347.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/1.jpg,DatasetNew/Training/meningioma/Tr-me_221.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/10.jpg,DatasetNew/Training/meningioma/Tr-me_781.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/101.jpg,DatasetNew/Testing/meningioma/Te-me_215.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/102.jpg,DatasetNew/Training/meningioma/Tr-me_1147.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/103.jpg,DatasetNew/Training/meningioma/Tr-me_743.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/104.jpg,DatasetNew/Training/meningioma/Tr-me_340.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/106.jpg,DatasetNew/Testing/meningioma/Te-me_76.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/108.jpg,DatasetNew/Testing/meningioma/Te-me_291.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/109.jpg,DatasetNew/Training/meningioma/Tr-me_906.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/110.jpg,DatasetNew/Training/meningioma/Tr-me_823.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/111.jpg,DatasetNew/Training/meningioma/Tr-me_928.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/112.jpg,DatasetNew/Training/meningioma/Tr-me_584.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/113.jpg,DatasetNew/Testing/meningioma/Te-me_287.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/114.jpg,DatasetNew/Training/meningioma/Tr-me_730.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/115.jpg,DatasetNew/Training/meningioma/Tr-me_526.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/116.jpg,DatasetNew/Training/meningioma/Tr-me_980.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/117.jpg,DatasetNew/Training/meningioma/Tr-me_185.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/119.jpg,DatasetNew/Training/meningioma/Tr-me_614.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/123.jpg,DatasetNew/Training/meningioma/Tr-me_303.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/124.jpg,DatasetNew/Training/meningioma/Tr-me_446.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/126.jpg,DatasetNew/Training/meningioma/Tr-me_933.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/130.jpg,DatasetNew/Training/meningioma/Tr-me_901.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/131.jpg,DatasetNew/Testing/meningioma/Te-me_108.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/132.jpg,DatasetNew/Testing/meningioma/Te-me_255.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/134.jpg,DatasetNew/Training/meningioma/Tr-me_322.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/135.jpg,DatasetNew/Training/meningioma/Tr-me_1009.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/136.jpg,DatasetNew/Training/meningioma/Tr-me_1193.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/137.jpg,DatasetNew/Training/meningioma/Tr-me_708.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/138.jpg,DatasetNew/Training/meningioma/Tr-me_253.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/139.jpg,DatasetNew/Training/meningioma/Tr-me_231.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/14.jpg,DatasetNew/Testing/meningioma/Te-me_254.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/141.jpg,DatasetNew/Training/meningioma/Tr-me_183.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/145.jpg,DatasetNew/Training/meningioma/Tr-me_1129.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/147.jpg,DatasetNew/Testing/meningioma/Te-me_178.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/148.jpg,DatasetNew/Training/meningioma/Tr-me_362.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/15.jpg,DatasetNew/Training/meningioma/Tr-me_1098.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/150.jpg,DatasetNew/Training/meningioma/Tr-me_543.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/152.jpg,DatasetNew/Training/meningioma/Tr-me_1126.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/154.jpg,DatasetNew/Training/meningioma/Tr-me_964.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/155.jpg,DatasetNew/Training/meningioma/Tr-aug-me_67.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/156.jpg,DatasetNew/Training/meningioma/Tr-me_31.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/157.jpg,DatasetNew/Training/meningioma/Tr-me_229.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/158.jpg,DatasetNew/Training/meningioma/Tr-me_703.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/159.jpg,DatasetNew/Training/meningioma/Tr-me_818.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/16.jpg,DatasetNew/Training/meningioma/Tr-me_238.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/161.jpg,DatasetNew/Training/meningioma/Tr-me_804.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/162.jpg,DatasetNew/Training/meningioma/Tr-me_960.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/163.jpg,DatasetNew/Testing/meningioma/Te-me_147.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/164.jpg,DatasetNew/Training/meningioma/Tr-me_61.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/165.jpg,DatasetNew/Training/meningioma/Tr-me_369.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/166.jpg,DatasetNew/Training/meningioma/Tr-me_911.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/168.jpg,DatasetNew/Training/meningioma/Tr-me_90.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/170.jpg,DatasetNew/Training/meningioma/Tr-me_310.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/171.jpg,DatasetNew/Training/meningioma/Tr-me_307.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/172.jpg,DatasetNew/Training/meningioma/Tr-me_274.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/173.jpg,DatasetNew/Training/meningioma/Tr-me_438.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/174.jpg,DatasetNew/Training/meningioma/Tr-me_483.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/175.jpg,DatasetNew/Training/meningioma/Tr-me_634.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/176.jpg,DatasetNew/Training/meningioma/Tr-me_283.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/178.jpg,DatasetNew/Training/meningioma/Tr-me_740.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/179.jpg,DatasetNew/Training/meningioma/Tr-me_767.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/181.jpg,DatasetNew/Testing/meningioma/Te-me_12.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/183.jpg,DatasetNew/Training/meningioma/Tr-me_1223.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/184.jpg,DatasetNew/Training/meningioma/Tr-me_779.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/185.jpg,DatasetNew/Training/meningioma/Tr-me_864.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/188.jpg,DatasetNew/Training/meningioma/Tr-me_203.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/189.jpg,DatasetNew/Training/meningioma/Tr-me_38.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/190.jpg,DatasetNew/Testing/meningioma/Te-me_185.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/191.jpg,DatasetNew/Training/meningioma/Tr-me_398.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/192.jpg,DatasetNew/Training/meningioma/Tr-me_1107.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/193.jpg,DatasetNew/Training/meningioma/Tr-me_456.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/194.jpg,DatasetNew/Training/meningioma/Tr-me_497.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/196.jpg,DatasetNew/Testing/meningioma/Te-me_146.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/197.jpg,DatasetNew/Training/meningioma/Tr-me_477.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/198.jpg,DatasetNew/Training/meningioma/Tr-me_122.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/20.jpg,DatasetNew/Training/meningioma/Tr-me_294.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/201.jpg,DatasetNew/Training/meningioma/Tr-me_690.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/203.jpg,DatasetNew/Training/meningioma/Tr-me_1179.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/204.jpg,DatasetNew/Training/meningioma/Tr-me_871.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/208.jpg,DatasetNew/Training/meningioma/Tr-me_1062.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/209.jpg,DatasetNew/Training/meningioma/Tr-me_706.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/210.jpg,DatasetNew/Training/meningioma/Tr-me_282.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/212.jpg,DatasetNew/Training/meningioma/Tr-me_954.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/213.jpg,DatasetNew/Training/meningioma/Tr-me_1063.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/215.jpg,DatasetNew/Training/meningioma/Tr-me_825.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/216.jpg,DatasetNew/Training/meningioma/Tr-me_508.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/22.jpg,DatasetNew/Training/meningioma/Tr-me_252.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/220.jpg,DatasetNew/Training/meningioma/Tr-me_1247.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/221.jpg,DatasetNew/Training/meningioma/Tr-me_147.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/222.jpg,DatasetNew/Training/meningioma/Tr-me_360.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/225.jpg,DatasetNew/Training/meningioma/Tr-me_1191.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/227.jpg,DatasetNew/Training/meningioma/Tr-me_736.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/228.jpg,DatasetNew/Training/meningioma/Tr-me_1104.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/229.jpg,DatasetNew/Training/meningioma/Tr-me_790.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/232.jpg,DatasetNew/Testing/meningioma/Te-me_85.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/233.jpg,DatasetNew/Training/meningioma/Tr-me_1063.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/234.jpg,DatasetNew/Testing/meningioma/Te-me_69.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/235.jpg,DatasetNew/Training/meningioma/Tr-me_653.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/236.jpg,DatasetNew/Training/meningioma/Tr-me_909.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/237.jpg,DatasetNew/Training/meningioma/Tr-me_535.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/239.jpg,DatasetNew/Training/meningioma/Tr-me_1284.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/24.jpg,DatasetNew/Training/meningioma/Tr-me_629.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/240.jpg,DatasetNew/Training/meningioma/Tr-me_390.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/242.jpg,DatasetNew/Testing/meningioma/Te-me_72.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/243.jpg,DatasetNew/Training/meningioma/Tr-me_927.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/245.jpg,DatasetNew/Training/meningioma/Tr-me_1042.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/248.jpg,DatasetNew/Training/meningioma/Tr-me_1177.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/25.jpg,DatasetNew/Training/meningioma/Tr-me_285.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/250.jpg,DatasetNew/Training/meningioma/Tr-me_425.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/251.jpg,DatasetNew/Training/meningioma/Tr-me_70.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/252.jpg,DatasetNew/Training/meningioma/Tr-me_912.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/253.jpg,DatasetNew/Training/meningioma/Tr-me_227.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/254.jpg,DatasetNew/Training/meningioma/Tr-me_801.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/256.jpg,DatasetNew/Training/meningioma/Tr-me_665.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/257.jpg,DatasetNew/Training/meningioma/Tr-me_348.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/258.jpg,DatasetNew/Training/meningioma/Tr-me_809.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/260.jpg,DatasetNew/Training/meningioma/Tr-me_697.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/261.jpg,DatasetNew/Training/meningioma/Tr-me_175.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/263.jpg,DatasetNew/Training/meningioma/Tr-me_554.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/265.jpg,DatasetNew/Training/meningioma/Tr-me_877.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/27.jpg,DatasetNew/Training/meningioma/Tr-me_230.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/270.jpg,DatasetNew/Training/meningioma/Tr-me_1270.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/271.jpg,DatasetNew/Training/meningioma/Tr-me_674.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/272.jpg,DatasetNew/Training/meningioma/Tr-me_1266.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/273.jpg,DatasetNew/Training/meningioma/Tr-me_435.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/274.jpg,DatasetNew/Training/meningioma/Tr-me_605.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/275.jpg,DatasetNew/Training/meningioma/Tr-me_329.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/277.jpg,DatasetNew/Testing/meningioma/Te-me_55.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/278.jpg,DatasetNew/Training/meningioma/Tr-me_971.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/281.jpg,DatasetNew/Training/meningioma/Tr-me_56.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/286.jpg,DatasetNew/Training/meningioma/Tr-me_625.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/287.jpg,DatasetNew/Training/meningioma/Tr-me_452.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/288.jpg,DatasetNew/Training/meningioma/Tr-me_890.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/289.jpg,DatasetNew/Training/meningioma/Tr-me_139.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/291.jpg,DatasetNew/Training/meningioma/Tr-me_1070.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/293.jpg,DatasetNew/Training/meningioma/Tr-me_974.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/295.jpg,DatasetNew/Training/meningioma/Tr-me_248.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/296.jpg,DatasetNew/Training/meningioma/Tr-me_1059.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/297.jpg,DatasetNew/Training/meningioma/Tr-me_426.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/299.jpg,DatasetNew/Training/meningioma/Tr-me_1282.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/3.jpg,DatasetNew/Training/meningioma/Tr-me_1276.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/300.jpg,DatasetNew/Training/meningioma/Tr-me_608.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/31.jpg,DatasetNew/Training/meningioma/Tr-me_1051.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/32.jpg,DatasetNew/Training/meningioma/Tr-me_1273.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/33.jpg,DatasetNew/Training/meningioma/Tr-me_712.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/34.jpg,DatasetNew/Training/meningioma/Tr-me_1244.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/36.jpg,DatasetNew/Training/meningioma/Tr-me_102.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/37.jpg,DatasetNew/Training/meningioma/Tr-me_120.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/39.jpg,DatasetNew/Training/meningioma/Tr-me_1065.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/4.jpg,DatasetNew/Training/meningioma/Tr-me_210.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/40.jpg,DatasetNew/Training/meningioma/Tr-me_465.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/41.jpg,DatasetNew/Training/meningioma/Tr-me_1121.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/45.jpg,DatasetNew/Training/meningioma/Tr-me_44.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/46.jpg,DatasetNew/Training/meningioma/Tr-me_1297.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/48.jpg,DatasetNew/Training/meningioma/Tr-me_1012.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/5.jpg,DatasetNew/Testing/meningioma/Te-me_65.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/50.jpg,DatasetNew/Training/meningioma/Tr-me_395.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/53.jpg,DatasetNew/Training/meningioma/Tr-me_1274.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/54.jpg,DatasetNew/Training/meningioma/Tr-me_1111.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/56.jpg,DatasetNew/Testing/meningioma/Te-me_245.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/58.jpg,DatasetNew/Training/meningioma/Tr-me_459.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/59.jpg,DatasetNew/Training/meningioma/Tr-me_367.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/6.jpg,DatasetNew/Training/meningioma/Tr-me_720.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/61.jpg,DatasetNew/Training/meningioma/Tr-me_447.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/62.jpg,DatasetNew/Testing/meningioma/Te-me_7.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/64.jpg,DatasetNew/Training/meningioma/Tr-me_537.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/65.jpg,DatasetNew/Testing/meningioma/Te-me_151.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/68.jpg,DatasetNew/Training/meningioma/Tr-me_68.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/69.jpg,DatasetNew/Training/meningioma/Tr-me_1240.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/7.jpg,DatasetNew/Training/meningioma/Tr-me_547.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/70.jpg,DatasetNew/Training/meningioma/Tr-me_1108.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/72.jpg,DatasetNew/Training/meningioma/Tr-me_63.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/73.jpg,DatasetNew/Training/meningioma/Tr-me_125.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/76.jpg,DatasetNew/Training/meningioma/Tr-me_519.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/79.jpg,DatasetNew/Training/meningioma/Tr-me_789.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/8.jpg,DatasetNew/Training/meningioma/Tr-me_453.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/83.jpg,DatasetNew/Training/meningioma/Tr-me_1221.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/84.jpg,DatasetNew/Testing/meningioma/Te-me_210.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/87.jpg,DatasetNew/Testing/meningioma/Te-me_78.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/89.jpg,DatasetNew/Training/meningioma/Tr-me_710.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/91.jpg,DatasetNew/Training/meningioma/Tr-me_788.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/93.jpg,DatasetNew/Testing/meningioma/Te-me_36.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/97.jpg,DatasetNew/Training/meningioma/Tr-me_1.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Meningioma/99.jpg,DatasetNew/Training/meningioma/Tr-me_688.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/1.jpg,DatasetNew/Testing/pituitary/Te-pi_214.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/10.jpg,DatasetNew/Training/pituitary/Tr-pi_1377.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/100.jpg,DatasetNew/Testing/pituitary/Te-pi_228.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/101.jpg,DatasetNew/Testing/pituitary/Te-pi_269.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/103.jpg,DatasetNew/Training/pituitary/Tr-pi_1283.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/105.jpg,DatasetNew/Training/pituitary/Tr-pi_1007.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/106.jpg,DatasetNew/Training/pituitary/Tr-pi_176.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/107.jpg,DatasetNew/Training/pituitary/Tr-pi_1246.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/108.jpg,DatasetNew/Training/pituitary/Tr-pi_32.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/109.jpg,DatasetNew/Training/pituitary/Tr-pi_536.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/11.jpg,DatasetNew/Training/pituitary/Tr-pi_902.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/110.jpg,DatasetNew/Training/pituitary/Tr-pi_950.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/111.jpg,DatasetNew/Testing/pituitary/Te-pi_202.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/112.jpg,DatasetNew/Training/pituitary/Tr-pi_912.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/113.jpg,DatasetNew/Training/pituitary/Tr-pi_1346.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/114.jpg,DatasetNew/Training/pituitary/Tr-pi_30.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/115.jpg,DatasetNew/Training/pituitary/Tr-pi_393.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/117.jpg,DatasetNew/Training/pituitary/Tr-pi_936.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/118.jpg,DatasetNew/Training/pituitary/Tr-pi_216.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/119.jpg,DatasetNew/Training/pituitary/Tr-pi_490.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/12.jpg,DatasetNew/Training/pituitary/Tr-pi_296.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/120.jpg,DatasetNew/Training/pituitary/Tr-pi_203.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/121.jpg,DatasetNew/Testing/pituitary/Te-pi_268.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/122.jpg,DatasetNew/Training/pituitary/Tr-pi_227.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/123.jpg,DatasetNew/Training/pituitary/Tr-pi_519.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/124.jpg,DatasetNew/Training/pituitary/Tr-pi_69.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/125.jpg,DatasetNew/Training/pituitary/Tr-pi_1219.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/127.jpg,DatasetNew/Training/pituitary/Tr-pi_588.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/128.jpg,DatasetNew/Testing/pituitary/Te-pi_234.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/129.jpg,DatasetNew/Training/pituitary/Tr-pi_1379.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/13.jpg,DatasetNew/Training/pituitary/Tr-pi_1311.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/130.jpg,DatasetNew/Training/pituitary/Tr-pi_1315.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/131.jpg,DatasetNew/Training/pituitary/Tr-pi_150.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/132.jpg,DatasetNew/Training/pituitary/Tr-pi_1050.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/134.jpg,DatasetNew/Training/pituitary/Tr-pi_572.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/135.jpg,DatasetNew/Training/pituitary/Tr-pi_976.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/136.jpg,DatasetNew/Training/pituitary/Tr-pi_1220.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/137.jpg,DatasetNew/Training/pituitary/Tr-pi_1091.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/138.jpg,DatasetNew/Training/pituitary/Tr-pi_35.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/139.jpg,DatasetNew/Training/pituitary/Tr-pi_948.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/140.jpg,DatasetNew/Training/pituitary/Tr-pi_704.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/141.jpg,DatasetNew/Training/pituitary/Tr-pi_1158.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/142.jpg,DatasetNew/Training/pituitary/Tr-pi_288.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/143.jpg,DatasetNew/Training/pituitary/Tr-pi_1088.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/144.jpg,DatasetNew/Training/pituitary/Tr-pi_880.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/146.jpg,DatasetNew/Training/pituitary/Tr-pi_309.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/147.jpg,DatasetNew/Training/pituitary/Tr-pi_179.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/148.jpg,DatasetNew/Training/pituitary/Tr-pi_1172.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/149.jpg,DatasetNew/Training/pituitary/Tr-pi_597.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/15.jpg,DatasetNew/Training/pituitary/Tr-pi_635.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/150.jpg,DatasetNew/Training/pituitary/Tr-pi_1275.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/151.jpg,DatasetNew/Testing/pituitary/Te-pi_181.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/152.jpg,DatasetNew/Training/pituitary/Tr-pi_721.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/153.jpg,DatasetNew/Training/pituitary/Tr-pi_429.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/154.jpg,DatasetNew/Testing/pituitary/Te-pi_18.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/156.jpg,DatasetNew/Training/pituitary/Tr-pi_640.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/157.jpg,DatasetNew/Training/pituitary/Tr-pi_299.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/159.jpg,DatasetNew/Training/pituitary/Tr-pi_906.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/16.jpg,DatasetNew/Training/pituitary/Tr-pi_1159.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/160.jpg,DatasetNew/Training/pituitary/Tr-pi_549.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/161.jpg,DatasetNew/Training/pituitary/Tr-pi_1201.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/162.jpg,DatasetNew/Training/pituitary/Tr-pi_576.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/163.jpg,DatasetNew/Training/pituitary/Tr-pi_228.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/164.jpg,DatasetNew/Training/pituitary/Tr-pi_1107.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/165.jpg,DatasetNew/Training/pituitary/Tr-pi_787.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/166.jpg,DatasetNew/Training/pituitary/Tr-pi_567.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/167.jpg,DatasetNew/Training/pituitary/Tr-pi_836.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/168.jpg,DatasetNew/Training/pituitary/Tr-pi_24.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/169.jpg,DatasetNew/Training/pituitary/Tr-pi_190.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/170.jpg,DatasetNew/Testing/pituitary/Te-pi_225.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/171.jpg,DatasetNew/Training/pituitary/Tr-pi_1370.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/172.jpg,DatasetNew/Training/pituitary/Tr-pi_731.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/173.jpg,DatasetNew/Training/pituitary/Tr-pi_215.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/174.jpg,DatasetNew/Training/pituitary/Tr-pi_695.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/175.jpg,DatasetNew/Training/pituitary/Tr-pi_767.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/176.jpg,DatasetNew/Testing/pituitary/Te-pi_394.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/177.jpg,DatasetNew/Training/pituitary/Tr-pi_626.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/179.jpg,DatasetNew/Training/pituitary/Tr-pi_685.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/18.jpg,DatasetNew/Training/pituitary/Tr-pi_546.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/180.jpg,DatasetNew/Training/pituitary/Tr-pi_1023.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/181.jpg,DatasetNew/Training/pituitary/Tr-pi_992.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/182.jpg,DatasetNew/Training/pituitary/Tr-pi_392.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/183.jpg,DatasetNew/Testing/pituitary/Te-pi_383.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/185.jpg,DatasetNew/Training/pituitary/Tr-pi_1368.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/186.jpg,DatasetNew/Training/pituitary/Tr-pi_416.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/187.jpg,DatasetNew/Testing/pituitary/Te-pi_128.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/188.jpg,DatasetNew/Training/pituitary/Tr-pi_593.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/189.jpg,DatasetNew/Training/pituitary/Tr-pi_345.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/19.jpg,DatasetNew/Training/pituitary/Tr-pi_732.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/190.jpg,DatasetNew/Testing/pituitary/Te-pi_87.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/191.jpg,DatasetNew/Training/pituitary/Tr-pi_556.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/192.jpg,DatasetNew/Testing/pituitary/Te-pi_290.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/194.jpg,DatasetNew/Training/pituitary/Tr-pi_423.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/195.jpg,DatasetNew/Training/pituitary/Tr-pi_855.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/196.jpg,DatasetNew/Training/pituitary/Tr-pi_827.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/197.jpg,DatasetNew/Training/pituitary/Tr-pi_1039.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/198.jpg,DatasetNew/Training/pituitary/Tr-pi_213.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/199.jpg,DatasetNew/Training/pituitary/Tr-pi_467.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/2.jpg,DatasetNew/Training/pituitary/Tr-pi_1138.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/201.jpg,DatasetNew/Training/pituitary/Tr-pi_929.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/202.jpg,DatasetNew/Training/pituitary/Tr-pi_280.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/204.jpg,DatasetNew/Training/pituitary/Tr-pi_571.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/205.jpg,DatasetNew/Training/pituitary/Tr-pi_236.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/206.jpg,DatasetNew/Training/pituitary/Tr-pi_696.jpg,4
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/207.jpg,DatasetNew/Testing/pituitary/Te-pi_328.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/208.jpg,DatasetNew/Testing/pituitary/Te-pi_318.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/209.jpg,DatasetNew/Testing/pituitary/Te-pi_40.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/21.jpg,DatasetNew/Training/pituitary/Tr-pi_1090.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/210.jpg,DatasetNew/Training/pituitary/Tr-pi_592.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/211.jpg,DatasetNew/Training/pituitary/Tr-pi_801.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/212.jpg,DatasetNew/Testing/pituitary/Te-pi_342.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/213.jpg,DatasetNew/Training/pituitary/Tr-pi_564.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/215.jpg,DatasetNew/Training/pituitary/Tr-pi_87.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/216.jpg,DatasetNew/Testing/pituitary/Te-pi_92.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/217.jpg,DatasetNew/Testing/pituitary/Te-pi_347.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/218.jpg,DatasetNew/Training/pituitary/Tr-pi_810.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/219.jpg,DatasetNew/Training/pituitary/Tr-pi_292.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/22.jpg,DatasetNew/Testing/pituitary/Te-pi_364.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/220.jpg,DatasetNew/Training/pituitary/Tr-pi_447.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/221.jpg,DatasetNew/Training/pituitary/Tr-pi_904.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/222.jpg,DatasetNew/Training/pituitary/Tr-pi_899.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/223.jpg,DatasetNew/Training/pituitary/Tr-pi_1271.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/224.jpg,DatasetNew/Training/pituitary/Tr-pi_198.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/225.jpg,DatasetNew/Training/pituitary/Tr-pi_268.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/227.jpg,DatasetNew/Training/pituitary/Tr-pi_326.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/228.jpg,DatasetNew/Training/pituitary/Tr-pi_243.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/229.jpg,DatasetNew/Training/pituitary/Tr-pi_922.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/23.jpg,DatasetNew/Training/pituitary/Tr-pi_527.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/230.jpg,DatasetNew/Testing/pituitary/Te-pi_99.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/231.jpg,DatasetNew/Training/pituitary/Tr-pi_232.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/232.jpg,DatasetNew/Training/pituitary/Tr-pi_493.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/233.jpg,DatasetNew/Training/pituitary/Tr-pi_1034.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/234.jpg,DatasetNew/Training/pituitary/Tr-pi_342.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/235.jpg,DatasetNew/Training/pituitary/Tr-pi_380.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/236.jpg,DatasetNew/Testing/pituitary/Te-pi_324.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/237.jpg,DatasetNew/Training/pituitary/Tr-pi_1308.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/238.jpg,DatasetNew/Training/pituitary/Tr-pi_1213.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/239.jpg,DatasetNew/Training/pituitary/Tr-pi_458.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/24.jpg,DatasetNew/Training/pituitary/Tr-pi_1119.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/240.jpg,DatasetNew/Testing/pituitary/Te-pi_266.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/241.jpg,DatasetNew/Training/pituitary/Tr-pi_1018.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/242.jpg,DatasetNew/Training/pituitary/Tr-pi_845.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/243.jpg,DatasetNew/Training/pituitary/Tr-pi_629.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/244.jpg,DatasetNew/Training/pituitary/Tr-pi_977.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/245.jpg,DatasetNew/Training/pituitary/Tr-pi_1326.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/246.jpg,DatasetNew/Training/pituitary/Tr-pi_139.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/247.jpg,DatasetNew/Training/pituitary/Tr-pi_1334.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/248.jpg,DatasetNew/Training/pituitary/Tr-pi_1316.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/249.jpg,DatasetNew/Training/pituitary/Tr-pi_797.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/25.jpg,DatasetNew/Training/pituitary/Tr-pi_18.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/250.jpg,DatasetNew/Training/pituitary/Tr-pi_612.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/251.jpg,DatasetNew/Training/pituitary/Tr-pi_381.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/252.jpg,DatasetNew/Training/pituitary/Tr-pi_370.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/253.jpg,DatasetNew/Training/pituitary/Tr-pi_1269.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/254.jpg,DatasetNew/Training/pituitary/Tr-pi_1006.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/256.jpg,DatasetNew/Training/pituitary/Tr-pi_428.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/258.jpg,DatasetNew/Training/pituitary/Tr-pi_366.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/259.jpg,DatasetNew/Training/pituitary/Tr-pi_127.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/260.jpg,DatasetNew/Training/pituitary/Tr-pi_405.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/261.jpg,DatasetNew/Training/pituitary/Tr-pi_711.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/262.jpg,DatasetNew/Training/pituitary/Tr-pi_709.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/263.jpg,DatasetNew/Testing/pituitary/Te-pi_187.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/264.jpg,DatasetNew/Training/pituitary/Tr-pi_1151.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/265.jpg,DatasetNew/Testing/pituitary/Te-pi_34.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/266.jpg,DatasetNew/Training/pituitary/Tr-pi_758.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/267.jpg,DatasetNew/Training/pituitary/Tr-pi_382.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/268.jpg,DatasetNew/Training/pituitary/Tr-pi_267.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/269.jpg,DatasetNew/Training/pituitary/Tr-pi_1010.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/27.jpg,DatasetNew/Training/pituitary/Tr-pi_1230.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/270.jpg,DatasetNew/Training/pituitary/Tr-pi_183.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/271.jpg,DatasetNew/Training/pituitary/Tr-pi_164.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/272.jpg,DatasetNew/Training/pituitary/Tr-pi_103.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/274.jpg,DatasetNew/Training/pituitary/Tr-pi_333.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/275.jpg,DatasetNew/Training/pituitary/Tr-pi_118.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/276.jpg,DatasetNew/Training/pituitary/Tr-pi_328.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/277.jpg,DatasetNew/Training/pituitary/Tr-pi_456.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/278.jpg,DatasetNew/Testing/pituitary/Te-pi_136.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/279.jpg,DatasetNew/Training/pituitary/Tr-pi_1313.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/28.jpg,DatasetNew/Training/pituitary/Tr-pi_426.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/280.jpg,DatasetNew/Testing/pituitary/Te-pi_102.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/281.jpg,DatasetNew/Training/pituitary/Tr-pi_217.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/282.jpg,DatasetNew/Training/pituitary/Tr-pi_829.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/284.jpg,DatasetNew/Training/pituitary/Tr-pi_437.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/285.jpg,DatasetNew/Testing/pituitary/Te-pi_67.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/286.jpg,DatasetNew/Training/pituitary/Tr-pi_1253.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/287.jpg,DatasetNew/Training/pituitary/Tr-pi_1223.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/288.jpg,DatasetNew/Training/pituitary/Tr-pi_93.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/29.jpg,DatasetNew/Training/pituitary/Tr-pi_451.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/290.jpg,DatasetNew/Training/pituitary/Tr-pi_1087.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/291.jpg,DatasetNew/Training/pituitary/Tr-pi_781.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/292.jpg,DatasetNew/Training/pituitary/Tr-pi_725.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/294.jpg,DatasetNew/Training/pituitary/Tr-pi_1337.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/295.jpg,DatasetNew/Training/pituitary/Tr-pi_1394.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/296.jpg,DatasetNew/Training/pituitary/Tr-pi_1164.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/297.jpg,DatasetNew/Training/pituitary/Tr-pi_509.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/298.jpg,DatasetNew/Testing/pituitary/Te-pi_54.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/299.jpg,DatasetNew/Training/pituitary/Tr-pi_790.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/3.jpg,DatasetNew/Training/pituitary/Tr-pi_1233.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/30.jpg,DatasetNew/Training/pituitary/Tr-pi_846.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/300.jpg,DatasetNew/Testing/pituitary/Te-pi_141.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/31.jpg,DatasetNew/Training/pituitary/Tr-pi_1231.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/32.jpg,DatasetNew/Training/pituitary/Tr-pi_532.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/33.jpg,DatasetNew/Training/pituitary/Tr-pi_346.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/34.jpg,DatasetNew/Training/pituitary/Tr-pi_871.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/35.jpg,DatasetNew/Training/pituitary/Tr-pi_276.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/36.jpg,DatasetNew/Training/pituitary/Tr-pi_1095.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/37.jpg,DatasetNew/Training/pituitary/Tr-pi_136.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/38.jpg,DatasetNew/Training/pituitary/Tr-pi_1131.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/39.jpg,DatasetNew/Training/pituitary/Tr-pi_900.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/4.jpg,DatasetNew/Training/pituitary/Tr-pi_501.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/40.jpg,DatasetNew/Training/pituitary/Tr-pi_608.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/41.jpg,DatasetNew/Training/pituitary/Tr-pi_1052.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/42.jpg,DatasetNew/Training/pituitary/Tr-pi_996.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/43.jpg,DatasetNew/Training/pituitary/Tr-pi_413.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/44.jpg,DatasetNew/Training/pituitary/Tr-pi_824.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/45.jpg,DatasetNew/Training/pituitary/Tr-pi_1168.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/46.jpg,DatasetNew/Training/pituitary/Tr-pi_733.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/47.jpg,DatasetNew/Training/pituitary/Tr-pi_551.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/48.jpg,DatasetNew/Training/pituitary/Tr-pi_581.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/49.jpg,DatasetNew/Training/pituitary/Tr-pi_841.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/50.jpg,DatasetNew/Training/pituitary/Tr-pi_1094.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/51.jpg,DatasetNew/Training/pituitary/Tr-pi_718.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/52.jpg,DatasetNew/Training/pituitary/Tr-pi_632.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/53.jpg,DatasetNew/Training/pituitary/Tr-pi_471.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/54.jpg,DatasetNew/Testing/pituitary/Te-pi_372.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/55.jpg,DatasetNew/Training/pituitary/Tr-pi_158.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/56.jpg,DatasetNew/Training/pituitary/Tr-pi_823.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/57.jpg,DatasetNew/Training/pituitary/Tr-pi_599.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/58.jpg,DatasetNew/Testing/pituitary/Te-pi_216.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/59.jpg,DatasetNew/Training/pituitary/Tr-pi_938.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/6.jpg,DatasetNew/Testing/pituitary/Te-pi_174.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/60.jpg,DatasetNew/Training/pituitary/Tr-pi_1073.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/61.jpg,DatasetNew/Training/pituitary/Tr-pi_602.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/62.jpg,DatasetNew/Testing/pituitary/Te-pi_248.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/63.jpg,DatasetNew/Training/pituitary/Tr-pi_689.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/64.jpg,DatasetNew/Testing/pituitary/Te-pi_332.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/65.jpg,DatasetNew/Training/pituitary/Tr-pi_518.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/66.jpg,DatasetNew/Training/pituitary/Tr-pi_140.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/67.jpg,DatasetNew/Training/pituitary/Tr-pi_1181.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/69.jpg,DatasetNew/Training/pituitary/Tr-pi_141.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/7.jpg,DatasetNew/Training/pituitary/Tr-pi_335.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/70.jpg,DatasetNew/Testing/pituitary/Te-pi_359.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/71.jpg,DatasetNew/Training/pituitary/Tr-pi_658.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/72.jpg,DatasetNew/Training/pituitary/Tr-pi_409.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/73.jpg,DatasetNew/Training/pituitary/Tr-pi_510.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/74.jpg,DatasetNew/Training/pituitary/Tr-pi_914.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/75.jpg,DatasetNew/Training/pituitary/Tr-pi_835.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/76.jpg,DatasetNew/Training/pituitary/Tr-pi_1038.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/77.jpg,DatasetNew/Testing/pituitary/Te-pi_350.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/78.jpg,DatasetNew/Training/pituitary/Tr-pi_302.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/79.jpg,DatasetNew/Training/pituitary/Tr-pi_1153.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/8.jpg,DatasetNew/Testing/pituitary/Te-pi_160.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/80.jpg,DatasetNew/Training/pituitary/Tr-pi_51.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/81.jpg,DatasetNew/Training/pituitary/Tr-pi_1307.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/82.jpg,DatasetNew/Training/pituitary/Tr-pi_313.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/83.jpg,DatasetNew/Training/pituitary/Tr-pi_123.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/84.jpg,DatasetNew/Training/pituitary/Tr-pi_1175.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/85.jpg,DatasetNew/Testing/pituitary/Te-pi_132.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/86.jpg,DatasetNew/Training/pituitary/Tr-pi_1250.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/88.jpg,DatasetNew/Training/pituitary/Tr-pi_1200.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/89.jpg,DatasetNew/Training/pituitary/Tr-pi_386.jpg,2
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/9.jpg,DatasetNew/Training/pituitary/Tr-pi_80.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/90.jpg,DatasetNew/Training/pituitary/Tr-pi_648.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/91.jpg,DatasetNew/Training/pituitary/Tr-pi_993.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/92.jpg,DatasetNew/Training/pituitary/Tr-pi_526.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/93.jpg,DatasetNew/Training/pituitary/Tr-pi_459.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/94.jpg,DatasetNew/Testing/pituitary/Te-pi_130.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/95.jpg,DatasetNew/Training/pituitary/Tr-pi_507.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/96.jpg,DatasetNew/Training/pituitary/Tr-pi_916.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/97.jpg,DatasetNew/Testing/pituitary/Te-pi_241.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/98.jpg,DatasetNew/Testing/pituitary/Te-pi_294.jpg,0
+/Users/hemishradadiya/Downloads/Brain Cancer MRI Dataset/Brain Cancer MRI Dataset/Pituitary Macroadenoma/99.jpg,DatasetNew/Training/pituitary/Tr-pi_22.jpg,2

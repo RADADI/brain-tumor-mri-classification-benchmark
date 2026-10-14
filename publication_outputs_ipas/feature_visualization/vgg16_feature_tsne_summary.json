@@ -1,0 +1,11 @@
+{
+  "test_images": 1600,
+  "feature_dimension": 4096,
+  "pca_dimension": 50,
+  "tsne_seed": 123,
+  "perplexity": 30.0,
+  "prediction_agreement_with_saved_csv": 1.0,
+  "max_probability_abs_difference": 5.953706360140032e-07,
+  "tsne_2d_silhouette_exploratory": 0.469242662191391,
+  "note": "t-SNE is an exploratory visualization; distances and cluster shapes are not quantitative evidence of clinical separability."
+}

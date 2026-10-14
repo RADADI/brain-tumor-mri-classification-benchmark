@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.915,
+  "precision_macro": 0.920702320103727,
+  "recall_macro": 0.915,
+  "f1_macro": 0.9127690680810424,
+  "precision_weighted": 0.9207023201037268,
+  "recall_weighted": 0.915,
+  "f1_weighted": 0.9127690680810424,
+  "auc_macro_ovr": 0.9834255208333332,
+  "test_samples": 1600,
+  "test_seconds": 30.870704125030898,
+  "milliseconds_per_image": 19.29419007814431,
+  "tta": false,
+  "experiment": "benchmark_swin_tiny",
+  "model": "swin_tiny",
+  "seed": 123,
+  "phase1_total_parameters": 27522430,
+  "phase1_trainable_parameters": 3076,
+  "phase2_total_parameters": 27522430,
+  "phase2_trainable_parameters": 15369652
+}

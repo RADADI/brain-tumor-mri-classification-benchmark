@@ -1,0 +1,9 @@
+file,case,true,pred,confidence,cam_target,mask_top_fraction,target_prob_before_mask,target_prob_after_mask,probability_drop,split_forward_max_logit_diff
+Te-gl_100.jpg,correct,glioma,glioma,1.0,glioma,0.15,1.0,0.5530523657798767,0.4469476342201233,0.0
+Te-me_221.jpg,correct,meningioma,meningioma,0.9797318577766418,meningioma,0.15,0.9797318577766418,0.381298303604126,0.5984335541725159,0.0
+Te-no_10.jpg,correct,notumor,notumor,1.0,notumor,0.15,1.0,0.0613834485411644,0.9386165514588356,0.0
+Te-pi_1.jpg,correct,pituitary,pituitary,1.0,pituitary,0.15,1.0,0.17248351871967316,0.8275164812803268,0.0
+Te-gl_110.jpg,error,glioma,meningioma,0.7153717279434204,meningioma,0.15,0.7153717279434204,0.985660195350647,-0.27028846740722656,0.0
+Te-gl_103.jpg,error,glioma,notumor,0.998768150806427,notumor,0.15,0.998768150806427,0.054799884557724,0.943968266248703,0.0
+Te-aug-me_16.jpg,error,meningioma,glioma,0.8172675967216492,glioma,0.15,0.8172675967216492,0.00033398804953321815,0.816933608672116,0.0
+Te-gl_23.jpg,error,glioma,meningioma,0.7158337831497192,meningioma,0.15,0.7158337831497192,0.9995748400688171,-0.2837410569190979,0.0

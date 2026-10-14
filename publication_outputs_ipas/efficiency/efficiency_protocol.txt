@@ -1,0 +1,4 @@
+Pure forward-pass latency, batch size 1, in-memory synthetic input, model.eval(), torch.inference_mode().
+Warm-up precedes timed repetitions. Device synchronization is used before/after each timed forward.
+GFLOPs are approximate fvcore forward-pass FLOPs; unsupported operations are recorded per model.
+Memory column is exact FP32 parameter storage, not peak accelerator runtime memory.
