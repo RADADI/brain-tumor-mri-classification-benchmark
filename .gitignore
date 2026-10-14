@@ -1,0 +1,9 @@
+DatasetNew/
+DatasetNew_Clean*/
+*.pth
+*.pt
+*.ckpt
+__pycache__/
+.venv/
+.env
+.DS_Store
