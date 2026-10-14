@@ -1,10 +1,8 @@
 # Brain Tumor Detection and Classification using Deep Learning
 
 ## Authors
-
-- Monitkumar Pansheriya - L20630566
 - Hemish Radadiya - L20574570
-- Harikrushna Parsana - L20624138
+- Dr.Tauhidul Alam - Professor
 
 ## Project Overview
 This project presents an end-to-end deep learning system for automated brain tumor classification from MRI images. The system classifies MRI scans into four categories:
