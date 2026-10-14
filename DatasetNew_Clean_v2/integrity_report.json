@@ -1,0 +1,39 @@
+{
+  "status": "EXACT_DEDUP_COMPLETE__NEAR_DUPLICATE_AND_PATIENT_REVIEW_REQUIRED",
+  "source_count": 7200,
+  "unique_sha256_images": 7013,
+  "removed_exact_copies": 187,
+  "cross_original_train_test_exact_groups": 0,
+  "cross_clean_split_exact_groups": 0,
+  "seed": 42,
+  "validation_fraction": 0.2,
+  "counts": {
+    "Training": {
+      "glioma": 1120,
+      "meningioma": 1109,
+      "notumor": 1025,
+      "pituitary": 1090
+    },
+    "Validation": {
+      "glioma": 280,
+      "meningioma": 277,
+      "notumor": 256,
+      "pituitary": 272
+    },
+    "Testing": {
+      "glioma": 386,
+      "meningioma": 398,
+      "notumor": 400,
+      "pituitary": 400
+    }
+  },
+  "warnings": [
+    "Original held-out Test membership retained, but redundant exact files deduplicated.",
+    "The number of samples changes. Prior results MUST NOT be reused.",
+    "Near duplicates and patient overlap are NOT ruled out.",
+    "This data is not cleared for publication just because exact duplicates are absent."
+  ],
+  "phash_checked": true,
+  "phash_candidate_pairs_cross_splits": 2835,
+  "phash_threshold": 5
+}
