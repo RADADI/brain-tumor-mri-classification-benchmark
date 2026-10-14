@@ -1,8 +1,8 @@
 # Brain Tumor Detection and Classification using Deep Learning
 
 ## Authors
-- Hemish Radadiya - L20574570
 - Dr.Tauhidul Alam - Professor
+- Hemish Radadiya - L20574570
 
 ## Project Overview
 This project presents an end-to-end deep learning system for automated brain tumor classification from MRI images. The system classifies MRI scans into four categories:
